@@ -10,6 +10,12 @@
   </div>
 </div>
 
+<div align="space-evenly">
+  <a href="https://github.com/iamlipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=engenny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenny&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ### Ferramentas e tecnologias que utilizo:
 
 <div>
@@ -24,6 +30,8 @@
 </div>
 
 ---
+
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 ### Contato
 
