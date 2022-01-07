@@ -3,7 +3,7 @@
 <div align="center">
   <div align="left" style="display: inline_block">
     <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo SGBD-MySQL</li>
+    <li>- 🌱 Aprendendo node.js</li>
     <li>- ⚡ Fun fact: Mostarda > Ketchup</li>
     <li>- ❤️ Apaixonado pelo Santos Futebol Clube</li>
   </div>
