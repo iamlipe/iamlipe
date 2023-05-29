@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm felipe lims</h1>
+<h1>Hi 👋, I'm Felipe Lima</h1>
 <h3>Sou um desenvolvedor mobile especializado em React Native, sempre em busca de aprendizado e crescimento profissional na criação de aplicativos de alta qualidade para iOS e Android. Tenho conhecimentos básicos em design de interface, boas práticas de programação e tecnologias móveis. Procuro sempre aprender e aplicar novas ferramentas e técnicas para oferecer soluções inovadoras aos clientes e melhorar a experiência dos usuários finais.</h3>
 
 - 🔭 I’m currently working on **macro-diet**
