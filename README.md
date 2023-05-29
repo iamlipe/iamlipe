@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **macro-diet**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://iamlipe.github.io/](https://iamlipe.github.io/)
 
